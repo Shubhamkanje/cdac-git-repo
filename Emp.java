@@ -7,7 +7,7 @@ class Emp
 	Emp()
 	{
 		id = 101;
-		name = "Dhiraj";
+		name = "shubham";
 		salary = 20000;
 	}
 	Emp(int d,String n,int s)
